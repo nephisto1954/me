@@ -1,6 +1,6 @@
 # Tanguy Chennaux
 
-## Junior Software Engineer
+## Software Engineer
 
 Over 2 years ago, I decided to change my career and I learn to be a developer/engineer. I joined the LeWagon Bootcamp (RoR) and this kickstarted my transition.
 
